@@ -28,9 +28,7 @@ To get the latest version of the MovableGames Desktop App:
 
 ## System Requirements
 
-- **Windows** 10 or later
-- **macOS** 10.14 or later
-- **Linux** (Ubuntu 18.04+, Fedora, Debian variants)
+- **Windows** 11 or later
 - Stable internet connection for cloud services synchronization
 - Minimum 4GB RAM recommended
 
