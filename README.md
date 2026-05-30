@@ -34,7 +34,7 @@ To get the latest version of the MovableGames Desktop App:
 
 ## Support & Resources
 
-- 📖 **Documentation**: https://movablegames.com
+- 📖 **Documentation**: movablegames.com
 - 📧 **Contact Us**: contact@movablegames.com
 - 📋 **License Agreement**: See [LICENSE](LICENSE) file for full EULA and Terms of Service
 
